@@ -1,0 +1,3 @@
+C:/Users/Ali/Desktop/ATM_management_system-master/cmake-build-debug/CMakeFiles/ATM_management_system_master.dir
+C:/Users/Ali/Desktop/ATM_management_system-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ali/Desktop/ATM_management_system-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
